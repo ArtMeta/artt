@@ -1,0 +1,259 @@
+/* body */
+body {
+  margin: 0 auto;
+  padding-bottom: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 24px;
+  width: 100%;
+  height: 1200px;
+  color: #595959;
+}
+.beginner {
+  margin: 32px auto;
+  padding: 0;
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #e5e5e5;
+  width: 1200px;
+  height: 1320px;
+}
+.main {
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* About person */
+.about {
+  margin: 105px 342px 47px 88px;
+  padding: 0;
+  width: 400px;
+  height: 232px;
+}
+.about-first {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  line-height: 17px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+.about-second {
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin-top: 15px;
+  margin-bottom: 0;
+  padding: 0;
+}
+.about-paragraph {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  width: 400px;
+  height: 124px;
+  margin-bottom: 47px;
+}
+.projects {
+  width: 485px;
+  height: 94px;
+  margin: -10px 263px 0 88px;
+}
+.projects-first {
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 7px;
+  padding: 0;
+}
+.projects-table {
+  margin: 0;
+  margin-left: 15px;
+  padding: 0;
+}
+.projects-table li {
+  color: #000;
+  font-weight: 700;
+  line-height: 24px;
+}
+.projects-table a {
+  text-decoration: none;
+  font-weight: 400;
+  color: #595959;
+}
+.company-one {
+  margin: 62px 217px 16px 88px;
+  width: 525px;
+  height: 213px;
+}
+.caption-one {
+  color: #000;
+  font-weight: 700;
+  line-height: 27px;
+  font-size: 22px;
+  margin: 0;
+}
+.tagline-one {
+  color: #000;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 12px;
+}
+.yellow {
+  color: #fb6d3a;
+  font-size: 16px;
+  line-height: 20px;
+}
+.text-one {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  padding: 0;
+  margin-top: -10px;
+}
+.table-one,
+.table-two {
+  padding: 0;
+  margin-top: -2px;
+  margin-left: 15px;
+}
+.table-three {
+  padding: 0;
+  margin-top: -3px;
+  margin-left: 15px;
+}
+.company-two {
+  width: 525px;
+  height: 150px;
+  padding: 0 217px 20px 88px;
+}
+.tagline-two {
+  color: #000;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.company-three {
+  width: 525px;
+  height: 126px;
+  margin: 0 217px 43px 88px;
+}
+.tagline-three {
+  color: #000;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 2px;
+}
+.education {
+  width: 327px;
+  margin: 0 421px 107px 88px;
+  height: 114px;
+}
+.education-first {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 5px;
+}
+.education-yellow {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.education-second {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  padding-top: -10px;
+}
+.text-three {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-top: 0;
+}
+.aside {
+  width: 370px;
+  height: 1320px;
+  background-color: #1e2939;
+}
+.print {
+  padding-top: 40px;
+  width: 370px;
+  height: 354px;
+}
+.contacts,
+.tech,
+.soft {
+  margin-left: 40px;
+  color: #fff;
+}
+.contacts {
+  margin: 45px 147px 0 40px;
+}
+.contacts-first,
+.tech-first,
+.soft-first {
+  font-size: 22px;
+  line-height: 27px;
+  font-weight: 700;
+}
+.p {
+  margin-top: -13px;
+  height: 48px;
+}
+.v {
+  margin-top: -37px;
+}
+.contacts-first span {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+.contacts-link {
+  color: #e1d1d1;
+  text-decoration: none;
+  margin-left: 10px;
+  opacity: 0.5;
+}
+.tech {
+  width: 121px;
+  height: 203px;
+  margin-top: 47px;
+}
+.soft {
+  width: 113px;
+  height: 131px;
+  margin-top: 44px;
+}
+.tech-ul,
+.soft-ul {
+  color: #fb6d3a;
+  padding: 0;
+  margin-left: 17px;
+}
+.tech-ul {
+  margin-top: -15px;
+}
+.soft-ul {
+  margin-top: -15px;
+}
+.tech-ul span,
+.soft-ul span {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
